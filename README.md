@@ -24,3 +24,31 @@
 Meningkatkan kinerja: Middleware dapat membantu meningkatkan kinerja aplikasi dengan memindahkan tugas-tugas yang tidak perlu dari aplikasi ke middleware.</li>
 <li>Meningkatkan skalabilitas: Middleware dapat membantu meningkatkan skalabilitas aplikasi dengan memungkinkan aplikasi untuk didistribusikan ke beberapa server.</li>
 <li>Meningkatkan keamanan: Middleware dapat membantu meningkatkan keamanan aplikasi dengan menyediakan fitur-fitur keamanan seperti otentikasi, enkripsi, dan manajemen </li>akses.</ul>
+<br>
+<h2>4.</h2><br>
+<p>
+Unit testing adalah sebuah metode pengujian perangkat lunak yang berfokus pada unit-unit kecil kode sumber, seperti fungsi, subroutine, atau metode. Tujuan unit testing adalah untuk memastikan bahwa setiap unit kode bekerja dengan benar dan memenuhi persyaratan.</p>
+<br>
+<ul><p>Metode unit testing yang umum digunakan antara lain:</p><li>Black box testing: Metode ini menguji unit kode tanpa mengetahui cara kerjanya. Pengujian dilakukan dengan memberikan input dan memeriksa output.</li>
+<li>White box testing: Metode ini menguji unit kode dengan mengetahui cara kerjanya. Pengujian dilakukan dengan memeriksa aliran kontrol dan aliran data.</li>
+<li>Boundary value testing: Metode ini menguji unit kode pada batas-batas input dan output. Pengujian dilakukan dengan memberikan input dan output yang ekstrem.</li>
+</ul>
+<br>
+<h2>5.</h2>
+<br>
+<p>
+Kontainerisasi adalah teknik yang memungkinkan aplikasi dan semua ketergantungannya dikemas dalam unit mandiri yang disebut kontainer. Kontainer dapat dioperasikan di berbagai lingkungan, termasuk cloud, on-premises, dan bahkan perangkat seluler.
+<br>
+Docker adalah platform perangkat lunak yang menyediakan alat dan layanan untuk membuat, menjalankan, dan mengelola kontainer. Docker membuat kontainerisasi lebih mudah dan efisien dengan menyediakan standar dan alat yang konsisten.
+<br>
+Kubernetes adalah sistem manajemen sumber daya yang dirancang untuk mengotomatiskan penyebaran, penskalaan, dan pengelolaan aplikasi kontainerisas</p>
+<br>
+<h2>6.</h2>
+<br>
+<p>Continuous Integration (CI) adalah proses otomatisasi penggabungan kode dari pengembang ke repositori kode bersama. CI membantu memastikan bahwa kode dari pengembang yang berbeda dapat digabungkan dengan lancar dan tanpa konflik.
+<br>
+Continuous Delivery (CD) adalah proses otomatisasi penyebaran kode ke lingkungan produksi. CD membantu memastikan bahwa kode baru dapat dideploy ke produksi dengan cepat dan aman.</p>
+<ul><li>
+  Jenkins
+</li>
+<li>GitLab CI/CD</li><li>CircleCI</li></ul>
