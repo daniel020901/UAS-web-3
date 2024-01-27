@@ -1,6 +1,6 @@
 # Jawaban UAS web-3
 <h2>1.</h2><br>
-<p>{<br
+<p>{<br>
   "universitas": "Djuanda",<br>
   "prodi": "Ilmu Komputer",<br>
   "iat": 1674270000<br>
